@@ -5,18 +5,19 @@ Este proyecto está desarrollado en Python. Procesa una lista de registros de ev
     
 ## Funcionalidad principal
 
--Solo se consideran registros cuyo estado sea "valido"
--Los eventos deben ser mayor a 0
--La gravedad debe ser "media" o "alta"
--Los registros con clave faltante se ignoran
+- Solo se consideran registros:
+  - Cuyo estado sea "válido"
+  - Los eventos deben ser mayor a 0
+  - La gravedad debe ser "media" o "alta"
+  - Los registros con clave faltante se ignoran
 
 
-##Retorna:
+- Retorna:
 
--Un diccionario con un resumen por área acumulando el total de eventos y la cantidad de registros válidos.
+  - Un diccionario con un resumen por área acumulando el total de eventos y la cantidad de registros válidos.
 
 
-##Estructura de salida:
+## Estructura de salida:
 
     {
         "Area": {"total_eventos": int, 
