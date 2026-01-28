@@ -1,6 +1,6 @@
 # Proyecto 3 -Procesar registros
 
-Este proyecto está desarrolado en Python. Procesa una lista de registros de eventos internos proveniente de distintas áreas.
+Este proyecto está desarrollado en Python. Procesa una lista de registros de eventos internos proveniente de distintas áreas.
     
     
 ## Funcionalidad principal
